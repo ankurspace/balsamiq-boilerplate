@@ -1,0 +1,14 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="900" measuredH="114" mockupW="900" mockupH="94">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="250" y="84" w="650" h="30" measuredW="217" measuredH="21" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hrefs>%2C%2C%2C130-shop%26bm%3B130-shop.bmml%26bm%3B130-shop.bmml%26bm%3B130-shop.bmml%2C%2C%2C</hrefs>
+        <text>Home%2C%20About%20Us%2C%20Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="20" w="230" h="94" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+  </controls>
+</mockup>

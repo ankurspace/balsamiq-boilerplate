@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="239" measuredH="349" mockupW="239" mockupH="349">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="239" h="349" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="12" y="12" w="214" h="79" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="__group__" x="12" y="101" w="214" h="233" measuredW="214" measuredH="233" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="214" h="37" measuredW="200" measuredH="80" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <size>13</size>
+            <text>%5BHow%20does%20Adviza%20work%20with%20graduates%3F%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="195" w="214" h="38" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <size>13</size>
+            <text>%5BWhere%20will%20the%20consultation%20take%20place%3F%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="43" w="214" h="17" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="3">
+          <controlProperties>
+            <size>13</size>
+            <text>%5BHow%20can%20Graduate%20Adviza%20help%20me%3F%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="66" w="214" h="37" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="3">
+          <controlProperties>
+            <size>13</size>
+            <text>%5BWhy%20should%20I%20choose%20Graduate%20Adviza%3F%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="109" w="214" h="37" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="3">
+          <controlProperties>
+            <size>13</size>
+            <text>%5BHow%20much%20does%20a%20careers%20consultation%20with%20Graduate%20Adviza%20cost%3F%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="152" w="214" h="37" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="3">
+          <controlProperties>
+            <size>13</size>
+            <text>%5BCan%20my%20friend%2C%20parent%2C%20carer%20or%20teacher%20come%20along%3F%5D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
